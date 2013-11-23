@@ -1,7 +1,7 @@
 protocol:
 
 * By default, all methods declared in a protocol are required methods.
-* )Protocols inherit from other protocols.
+* Protocols inherit from other protocols.
 * Protocols are also useful in situations where the class of an object isn’t known, or needs to stay hidden.
 
 Subclass:
